@@ -1,2 +1,2 @@
 # Prace-s-Gitem
-Lekce 5, vytvoření datových tříd, jejich načtení z textového souboru, úpravu a zápis výsledku do souboru
+Vytvoření projektu, vytvoření složek do .gitignore, pushnutí projektu na GitHub, 
