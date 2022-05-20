@@ -1,2 +1,2 @@
 # Práce s Gitem
-Vytvoření projektu, vložení .gitignore nahrání na GitHub
+Vytvoření projektu, vložení .gitignore, nahrání na GitHub
